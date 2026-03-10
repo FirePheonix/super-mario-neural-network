@@ -1,0 +1,4 @@
+gym-super-mario-bros
+nes-py
+opencv-python
+numpy
