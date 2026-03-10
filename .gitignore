@@ -8,9 +8,6 @@ __pycache__/
 *.pyc
 *.pyo
 
-# Trained models (large binary files - train your own or download separately)
-models/*.pkl
-
 # IDE
 .vscode/
 .idea/
